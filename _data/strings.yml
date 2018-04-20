@@ -22,9 +22,9 @@ navigation:            Navigation
 social:                Social
 links:                 Links
 pagination:            Pagination
-newer:                 Newer
-older:                 Older
-back:                  Back
+newer:                 ->
+older:                 <-
+back:                  Vissza
 templates:             Templates (for web app)
 
 loading:               Loading…
