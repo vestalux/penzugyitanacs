@@ -42,8 +42,7 @@ cookies_banner:
 
 not_found:
   title:               '404: Oldal nem található'
-  message:             |
-  Sajnos nem találjuk a keresett oldalt. <!--home_link--> oldalra és próbáld megtalálni a keresett oldalt.
+  message:             Sajnos nem találjuk a keresett oldalt. <!--home_link--> oldalra és próbáld megtalálni a keresett oldalt.
   home_link:           Visszatérés a kezdőlapra
 
 error:
