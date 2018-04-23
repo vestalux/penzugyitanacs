@@ -1,23 +1,17 @@
 ---
 layout: about
-title: Tanácsadás
+title: Kitelepülés
 description: >
-  Tanácsadás célja, hogy segítsük a lakosságot a  pénzügyi vállalkozásokkal, szolgáltatókkal szemben felmerülő  vitás ügyek megoldásában, tanácsot adjunk  pénzügyi döntéseikben, pénzügyi tudatosságuk fejlesztésében.
+  Somogy megye több településén  is biztosítjuk a pénzügyi fogyasztóvédelmi tanácsadást, panaszok megoldását. . Előadásaink  a lakosságot legjobban érintő aktuális témákkal kapcsolatosak.
 menu: true
-order: 1
+order: 2
 ---
-### Tanácsadás típusai:
+A kitelepülések alkalmanként 6 órás időtartamúak,  atájékoztató előadásokat és személyes tanácsadást is magába foglaló zolgáltatás.
 
-* Panasz levél elkészítése, segítség a pénzügyi vállalkozásokkal  (bankok, biztosítók, más pénzügyi szolgáltatók) való kapcsolatfelvételben
+### Tipikus esetek:
+* Pénzügyi (pl. hitellel vagy biztosítással kapcsolatos) panasz esetén segítsünk a panasz levél elkészítésében, segítség a pénzügyi vállalkozásokkal  (bankok, biztosítók, más pénzügyi szolgáltatók) való kapcsolatfelvételben
 * Tanácsot adunk pénzügyi döntések előtt, tájékoztatjuk az ügyletkötés következményeiről, javaslatot teszünk a fogyasztóvédelmi jogsértések megoldásához.
 * Elkészítjük  a Pénzügyi Békéltető Testület eljárásához szükséges kérelmet,
 * Méltányossági és egyéb kérelmek összeállításában nyújtunk segítsége.
 * Tanácsot adunk az életviteli, háztartási, gazdálkodási kérdésekben
 * Tájékoztató kiadványokhoz és egyéb információkhoz való hozzáférés biztosítása
-
-### Tanácsadók:
-Felder Frigyes  - közgazdász (fotó)
-Dr Csizmeg László - jogász
-
-### Tanácsadó irodát működteti:
-Társadalmi Vállalkozások Országos Szövetsége
