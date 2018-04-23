@@ -10,68 +10,67 @@
 
 # Free version
 # ---------------------------------------------------------------------------------------
-home:                  Home
-pages:                 Pages
-posts:                 Posts
-about:                 About
-related_posts:         Related Posts
-other_projects:        Other Projects
-comments:              Comments
-jump_to:               Jump to
-navigation:            Navigation
-social:                Social
-links:                 Links
-pagination:            Pagination
-newer:                 Newer
-older:                 Older
-back:                  Back
+home:                  Kezdőlap
+pages:                 Oldalak
+posts:                 Bejegyzések
+about:                 Bemutatkozás
+related_posts:         Kapcsolódó
+other_projects:        Más Projektek
+comments:              Hozzászólások
+jump_to:               Ugrás
+navigation:            Navigáció
+social:                Közösség
+links:                 Linkek
+pagination:            Lapozás
+newer:                 ->
+older:                 <-
+back:                  Vissza
 permalink:             Permalink
 permalink_icon:        icon-link
 templates:             Templates (for web app)
 
-loading:               Loading…
-redirecting:           Redirecting…
+loading:               Töltés…
+redirecting:           Átirányítás…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  Tovább >>
 
 cookies_banner:
   text:                >
-    This site uses cookies. [Cookies Policy](/hydejack/cookies-policy/).
-  okay:                Okay
+    Az oldal sütiket használ. [Cookies Policy](/hydejack/cookies-policy/).
+  okay:                Ok
 
 not_found:
-  title:               '404: Page Not Found'
+  title:               '404: Oldal nem található'
   message:             |
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
-    <!--home_link--> to try finding it again.
-  home_link:           Head back home
+  Sajnos nem találjuk a keresett oldalt. <!--home_link--> oldalra és próbáld megtalálni a keresett oldalt.
+  home_link:           Visszatérés a kezdőlapra
 
 error:
-  title:               Error
+  title:               Hiba
   message:             |
-    Sorry, an error occurred while loading <!--link-->.
+    Hiba történt <!--link--> betöltésekor.
 
 # Separators
 # ---------------------------------------------------------------------------------------
 colon:                 ':'
 separator:             '|'
-category_start:        'in '
+category_start:        '^ '
 category_spearator:    ' / '
-tag_start:             'on '
+tag_start:             '~ '
 tag_separator:         ', '
 
 
 # Date formats
 # ---------------------------------------------------------------------------------------
 date_formats:
-  post:                '%d %b %Y'
-  related_post:        '%d %b %Y'
+  post:                '%Y %b %d'
+  related_post:        '%Y %b %d'
   list_group_by:       '%Y'
-  list_entry:          '%d %b'
+  list_entry:          '%b %d'
   project:             '%Y'
   projects_group_by:   '%Y'
-  resume:              '%b %Y'
+  resume:              '%Y %b'
 
 
 # PRO Version
