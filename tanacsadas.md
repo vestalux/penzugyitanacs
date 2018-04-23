@@ -6,7 +6,7 @@ description: >
 menu: true
 order: 2
 ---
-A kitelepülések alkalmanként 6 órás időtartamúak,  atájékoztató előadásokat és személyes tanácsadást is magába foglaló zolgáltatás.
+A kitelepülések alkalmanként 6 órás időtartamúak,  a tájékoztató előadásokat és személyes tanácsadást is magába foglaló zolgáltatás.
 
 ### Tipikus esetek:
 * Pénzügyi (pl. hitellel vagy biztosítással kapcsolatos) panasz esetén segítsünk a panasz levél elkészítésében, segítség a pénzügyi vállalkozásokkal  (bankok, biztosítók, más pénzügyi szolgáltatók) való kapcsolatfelvételben
