@@ -11,7 +11,7 @@ order: 5
 
 Kaposvár
 
-Ady Ebdre u. 3.
+Ady Endre u. 3.
 
 
 ### Bejelentkezés tanácsadásra
