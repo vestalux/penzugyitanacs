@@ -2,7 +2,7 @@
 layout: about
 title: Tudástár
 description: >
-  A tudástárból letölthető dokumentumok segítenek felkészülni a pénzügyi szolgáltatások jogi hátteréből. Személyes konzultáció előtt érdemes átolvasni a
+  A tudástárból letölthető dokumentumok segítenek felkészülni a pénzügyi szolgáltatások jogi hátteréből. Személyes konzultáció előtt érdemes átolvasni a kapcsolódó anyagokat.
 menu: true
 order: 3
 ---
