@@ -1,11 +1,19 @@
 ---
 layout: about
-title: Panaszkezelés
+title: Kapcsolat
 description: >
-  Panaszkezelés
+  Foglaljon időpontot személyes tanácsadásra
 menu: true
 order: 5
 ---
+### Tanácsadó Iroda
+7400
+
+Kaposvár
+
+Ady Ebdre u. 3.
+
+
 ### Bejelentkezés tanácsadásra
 
 Személyes tanácsadáshoz kérjük jelentkezzen be az alábbi telefonszámon:
