@@ -8,6 +8,7 @@ description: >
 Júliusban is folytatjuk kihelyezett tanácsadásainkat, ebben a h ónapban az alábbi időpontokban vagyunk elérhetők külső helyszínen:
 
 2018.07.19-én 10:00-06:00 - Berzence: Művelődési ház
+
 2018.07.26-án 10:00-16:00 - Berzence: Művelődési ház
 
 
