@@ -1,24 +1,29 @@
 ---
 layout: post
-title: Pénzügyi fogyasztóvédelmi tanácsadás már Somogy megyében is!
+title: Újra támadnak a gyanús emailok, céljuk a bankkártya adatok megszerzése
 description: >
-  Az MNB működési engedélyének birtokában megnyitottuk Pénzügyi Tanácsadó Irodánkat.
+
 
 ---
-2018.04.12-től, az MNB működési engedélyének birtokában megnyitottuk Pénzügyi Tanácsadó Irodánkat.
-Célunk, hogy segítsük a lakosságot a  pénzügyi vállalkozásokkal, szolgáltatókkal szemben felmerülő  vitás ügyek megoldásában, tanácsot adjunk  pénzügyi döntéseikben, pénzügyi tudatosságuk fejlesztésében.
+Az elmúlt hetekben több panaszbejelentés érkezett, hogy hamisnak tűnő  elektronikus levélben próbálnak bankkártya adatokat megszerezni. Aki hasonló levelet kapott, kérjük jelentse a legközelebbi Pénzügyi Fogyasztóvédelmi Tanácsadó irodában listát itt találja: [https://www.mnb.hu/fogyasztovedelem/tanacsado-irodak](https://www.mnb.hu/fogyasztovedelem/tanacsado-irodak)
 
-### Szolgáltatásaink díjmentesek:
-* Panasz levél elkészítése, segítség a pénzügyi vállalkozásokkal  (bankok, biztosítók, más pénzügyi szolgáltatók) való kapcsolatfelvételben
-* Tanácsot adunk pénzügyi döntések előtt, tájékoztatjuk az ügyletkötés következményeiről, javaslatot teszünk a fogyasztóvédelmi jogsértések megoldásához.
-* Elkészítjük  a Pénzügyi Békéltető Testület eljárásához szükséges kérelmet,
-* Méltányossági és egyéb kérelmek összeállításában nyújtunk segítsége.
-* Tanácsot adunk az életviteli, háztartási, gazdálkodási kérdésekben
-* Tájékoztató kiadványokhoz és egyéb információkhoz való hozzáférés biztosítása
+Az elektronikus levél feladójának címe: From: hozzaferes megtagadva <megtagadva23.3-3kk3man30@supermailx.com>
+A levél címe: Ma fiókod korlátozott!
 
-### Tanácsadók:
-Felder Frigyes  - közgazdász  
-Dr Csizmeg László - jogász
+Levél tartalma:
+kedves tag
 
-#Tanácsadó irodát működteti:
-Társadalmi Vállalkozások Országos Szövetsége
+Korlátozott hozzáférést biztosítunk a PayPal számára, amelyik számlájáról
+mert más böngészők illegális tevékenységét észleljük
+Jelenleg csatoltuk aktivo pdf vagy docx.
+
+Köszönöm
+
+A csatolt melléklet tartalma:
+PayPal
+A PayPal védelmet nyújt a csalók ellen. A fiókjában szereplő legutóbbi tevékenység csalárdnak tűnik. Arra fogjuk kérni, hogy folytassa a következő lépéseket a fiókhoz való hozzáférés
+helyreállítása érdekében. Ellenőrizze a számlázási címét. 24 órája van a személyazonosságának megerősítésére, különben korlátozzuk fiokját
+Indítási folyamat
+
+
+![levél][/assets/img/paypal.png]
