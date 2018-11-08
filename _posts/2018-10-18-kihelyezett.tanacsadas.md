@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Irodánk neve megváltozott
+title: Kihelyezett tanácsadás
 date: 2018-10-18T10:20:00Z
 ---
 KIHELYEZETT PÉNZÜGYI TANÁCSADÁSAINK IDŐPONTJA:
