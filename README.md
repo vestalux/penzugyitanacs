@@ -88,6 +88,7 @@ This table details what is and isn't included in each respective version.
                 /\___/                \ \____/
                 \/__/                  \/___/
 ~~~
+xxxx
 
 [blog]: https://qwtel.com/hydejack/blog/
 [portfolio]: https://qwtel.com/hydejack/variations/
