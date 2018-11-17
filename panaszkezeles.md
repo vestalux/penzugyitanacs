@@ -8,21 +8,21 @@ order: 4
 ---
 Pénzügyi tanácsadó irodánkhoz beérkezett leggyakoribb pénzügyi témájú panaszok, megkeresések:
 
-##Biztosítási panaszok
+## Biztosítási panaszok
 
-kártérítés jogalapjának vitatása, melyben a gépjármű felelősségbiztosítás és lakásbiztosításhoz kötődő panaszok száma a legnagyobb,
-életbiztosítások – kiemelten a befektetésekkel, nyugdíjalappal kombinált életbiztosítások - költsége, illetve annak mértékével kapcsolatos félretájékoztatás, vagy tájékoztatás hiánya. Gyakori a valótlan információk közlése, amivel a fogyasztókat megtéveszti a biztosító,
-ügyviteli panaszokkal kapcsolatban megkeresés, mely nagyrészt a panaszkezelés válaszadási határidőinek túllépéséből ered
+* kártérítés jogalapjának vitatása, melyben a gépjármű felelősségbiztosítás és lakásbiztosításhoz kötődő panaszok száma a legnagyobb,
+* életbiztosítások – kiemelten a befektetésekkel, nyugdíjalappal kombinált életbiztosítások - költsége, illetve annak * mértékével kapcsolatos félretájékoztatás, vagy tájékoztatás hiánya. Gyakori a valótlan információk közlése, amivel fogyasztókat megtéveszti a biztosító,
+* ügyviteli panaszokkal kapcsolatban megkeresés, mely nagyrészt a panaszkezelés válaszadási határidőinek túllépéséből ered
  
 
-##Banki panaszok
+## Banki panaszok
 
-a leggyakoribb panasz a lakáshitelekkel, gépjárműhitel-közvetítéssel kapcsolatosak,
-az ügynöki tevékenység esetén a tájékoztatási hiányosságok jellemzőek,
-az ügyviteli, ügyintézési hiányosság száma egyre gyakoribb, a folyószámla-vezetéssel kapcsolatos problémák,
+* a leggyakoribb panasz a lakáshitelekkel, gépjárműhitel-közvetítéssel kapcsolatosak,
+* az ügynöki tevékenység esetén a tájékoztatási hiányosságok jellemzőek,
+* az ügyviteli, ügyintézési hiányosság száma egyre gyakoribb, a folyószámla-vezetéssel kapcsolatos problémák,
  
 
-##Tőkepiaci panaszok
+## Tőkepiaci panaszok
 
 Esetleírás, tájékoztatás hiánya
 
