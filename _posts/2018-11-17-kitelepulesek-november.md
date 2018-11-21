@@ -3,8 +3,6 @@
 layout: post
 title: Kitelepülések November
 description: >
-
-
 ---
 
 2018.11.20. 8.00-16:00 óra - Berzence-Művelődési ház - 7516 Berzence, Szabadság tér 2.
