@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Megfontol Karácsonyt Kívánunk!
+title: Megfontolt Karácsonyt Kívánunk!
 date: 2018-11-22T10:20:00Z
 ---
 
