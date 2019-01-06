@@ -1,5 +1,8 @@
-2018.12.21
-
+---
+layout: post
+title: Tovább csökkent a szabad felhasználású Diákhitel1 kamata
+date: 2018-12-21T10:20:00Z
+---
 Nagyszerű hír a diákhiteleseknek, hogy ismét tovább csökkent a szabad felhasználású Diákhitel1 kamata. A Diákhitel2 változatlanul kamatmentes, azaz 0%-os kamattal kérhető 2019 első félévére vonatkozóan.
 
 Az MFB Csoporthoz tartozó Diákhitel Központ az előző félévi 2,30%-ról 10 bázisponttal csökkentve 2,20%-ban határozta meg a Diákhitel1 kamatát a 2019. január 1. - június 30. időszakban. A kötött felhasználású Diákhitel2 az állami kamattámogatásnak köszönhetően változatlanul 0%-os kamattal igényelhető. Ezek az eredmények nem csupán a Diákhitel Központ eredményes működésének, a következetes finanszírozási politikának, de a törlesztő ügyfelek fizetési fegyelmének is köszönhetőek.
