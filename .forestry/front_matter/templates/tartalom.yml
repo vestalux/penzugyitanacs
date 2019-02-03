@@ -11,3 +11,4 @@ fields:
   label: date
 pages:
 - _posts/hello.md
+- _posts/teszt.md
