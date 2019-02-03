@@ -1,4 +1,5 @@
 ---
+label: tartalom
 hide_body: false
 is_partial: false
 fields:
@@ -10,3 +11,4 @@ fields:
   label: date
 pages:
 - _posts/hello.md
+- _posts/teszt.md
