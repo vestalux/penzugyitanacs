@@ -21,6 +21,6 @@ A hitelkeretek terén is akad változás. A CIB a korábbi 75 ezer forint helyet
 
 A számlakölcsönöknek itt nézhet utána
 
-Ha ezt hasznosnak találta, lájkolja és kövesse az azénpénzem facebook oldalát, és látogassa meg máskor is közvetlenül honlapunkat!	
+Ha ezt hasznosnak találta, lájkolja és kövesse az azénpénzem facebook oldalát, és látogassa meg máskor is közvetlenül honlapunkat!
 
 Forrás : Az Én Pénzem
