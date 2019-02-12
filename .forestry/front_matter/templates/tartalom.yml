@@ -11,7 +11,8 @@ fields:
   label: date
 pages:
 - _posts/hello.md
-- _posts/2019-02-01-megújult-500-forintos-bankjegyek.md
 - _posts/2019-02-02-egyre-drágábbak-a-számlahitelek.md
+- _posts/2019-02-01-megújult-500-forintos-bankjegyek.md
 - _posts/2019-02-03-vigyázz-kiben-bízol-az-ördög-is-egyszer-angyal-volt-jogosulatlan-szolgáltatók.md
 - _posts/2019-02-05-mnb-oktatófilm-pénzügyi-navigátor-tanácsadó-irodahálózat.md
+- _posts/tudnivalók-gépjárműve-biztosításáról.md
