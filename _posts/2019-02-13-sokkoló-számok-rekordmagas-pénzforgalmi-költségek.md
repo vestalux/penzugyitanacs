@@ -3,7 +3,7 @@ title: 'Sokkoló számok: rekordmagas pénzforgalmi költségek'
 date: 2019-02-13 00:00:00 +0100
 
 ---
-Sokkoló számok ‼️A magyar lakossági ügyfelek jövedelemarányos pénzforgalmi költsége kiemelkedően magas európai összehasonlításban🤢Ez nagymértékben hátráltatja az elektronikus fizetési módok magyarországi elterjedését.  
+  
 ![](/uploads/45.jpg)Sokkoló számok ‼️
 
 A magyar lakossági ügyfelek jövedelemarányos pénzforgalmi költsége kiemelkedően magas európai összehasonlításban. Ez nagymértékben hátráltatja az elektronikus fizetési módok magyarországi elterjedését. A Magyar Nemzeti Bank legújabb tanulmánya a magyarországi és európai pénzforgalmi szolgáltatók árazási gyakorlatát vizsgálta.
