@@ -3,7 +3,9 @@ title: Zöld Pogramot indít az MNB
 date: 2019-02-18 00:00:00 +0100
 
 ---
-A Magyar Nemzeti Bank (MNB) Zöld Programot indít a környezet megóvását célzó magyarországi pénzügyi szolgáltatások támogatására, illetve a piaci szereplők és saját ökológiai lábnyomának további csökkentésére. 
+![](/uploads/12.jpg)
+
+A Magyar Nemzeti Bank (MNB) Zöld Programot indít a környezet megóvását célzó magyarországi pénzügyi szolgáltatások támogatására, illetve a piaci szereplők és saját ökológiai lábnyomának további csökkentésére.
 
 Ezen felül pedig a jegybank megalapítja a Zöld Pénzügyek Díjat, amelyre azok a pénzügyi intézmények pályázhatnak, amelyek a legtöbbet teszik a zöld pénzügyek kialakításáért - derült ki az MNB pénteki közléséből.  
 Mint írják, a jegybank által meghirdetett Zöld Program a klímaváltozáshoz és más környezeti problémákkal összefüggő kockázatok csökkentését, a magyarországi zöld pénzügyi szolgáltatások bővítését, illetve az ezzel kapcsolatos magyarországi és nemzetközi tudásbázis szélesítését szolgálja.
