@@ -10,6 +10,7 @@ fields:
   name: date
   label: date
 pages:
+- _posts/mnb-makrogazdasági-jelentés.md
 - _posts/zöld-pogramot-indít-az-mnb.md
 - _posts/júliustól-vehető-igénybe-a-kamattámogatott-hitel-használt-lakásokra.md
 - _posts/csaló-brókerek-nyomában-az-mnb.md
