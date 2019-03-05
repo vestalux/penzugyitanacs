@@ -10,6 +10,7 @@ fields:
   name: date
   label: date
 pages:
+- _posts/gépjárműve-biztosításáról.md
 - _posts/piros-lapot-és-tetemes-bírságot-kapott-a-cetelem-az-mnb-től.md
 - _posts/a-gdp-5-9-százalékát-tették-félre-tavaly-a-magyar-háztartások.md
 - _posts/az-mnb-kötelezte-a-tempo-egészség-és-önsegélyező-pénztárat-hogy-szüntesse-meg-jogsértő-tulajdonát-egy-kft-ben.md
