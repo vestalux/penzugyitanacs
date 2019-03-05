@@ -10,6 +10,7 @@ fields:
   name: date
   label: date
 pages:
+- _posts/a-gdp-5-9-százalékát-tették-félre-tavaly-a-magyar-háztartások.md
 - _posts/az-mnb-kötelezte-a-tempo-egészség-és-önsegélyező-pénztárat-hogy-szüntesse-meg-jogsértő-tulajdonát-egy-kft-ben.md
 - _posts/ingyenes-pénzügyi-segítség.md
 - _posts/mnb-makrogazdasági-jelentés.md
