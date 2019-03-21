@@ -1,23 +1,35 @@
 ---
 layout: about
 title: Kapcsolat
-description: >
-  Foglaljon időpontot személyes tanácsadásra
+description: 'Foglaljon időpontot személyes tanácsadásra
+
+'
 menu: true
 order: 5
+
 ---
-### Tanácsadó Iroda
-7400
+**Pénzügyi Navigátor Tanácsadó Iroda**
 
-Kaposvár
+Cím: 7400 Kaposvár, Ady Endre u. 3.
 
-Ady Endre u. 3.
+E-mail: tavoszkozpont@gmail.com
 
+Ügyfélfogadás:
 
-### Bejelentkezés tanácsadásra
+Hétfő: 8:00-16:00
 
-Személyes tanácsadáshoz kérjük jelentkezzen be az alábbi telefonszámon:
+Kedd: 8:00-16:00
 
-#### +36 82 950 906
+Szerda: 8:00-16:00
 
-Kérjük kollégánknak adja meg a témát melyben információt kér, hogy munkatársunk személyre szabott tanácsokkal várhassa a személyes találkozón.
+Csütörtök: 8:00-16:00
+
+Péntek: 8:00-16:00
+
+**Bejelentkezés tanácsadásra**
+
+Kérjük, személyes tanácsadásra az ügyfélfogadási időben az alábbi telefonszámon jelentkezzen be:
+
+**+36 82 950 906**
+
+Kérjük, a telefonbeszélgetés során adja meg kollégánknak a témát melyben információt kér, hogy munkatársunk személyre szabott tanácsokkal várhassa a személyes találkozón!
