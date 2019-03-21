@@ -44,9 +44,9 @@ Tanácsadóink rendszeres képzéseken vesznek részt, munkájukat folyamatos sz
 
 **Tanácsadók:**
 
-Felder Frigyes, ~~-~~ közgazdász ~~(fotó)~~
+Felder Frigyes, közgazdász
 
-Dr. Csizmeg László, ~~-~~ jogász
+Dr. Csizmeg László, jogász
 
 **Az irodánk elérhetősége:**
 
