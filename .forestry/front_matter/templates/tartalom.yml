@@ -9,6 +9,7 @@ fields:
   name: date
   label: date
 pages:
+- _posts/szigorú-feltételei-lesznek-a-babaváró-hitelnek.md
 - _posts/átvilágítás.md
 - adatvédelmi-tájékoztató.md
 - nem-használt-cuccok.md
