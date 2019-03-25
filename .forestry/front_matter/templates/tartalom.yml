@@ -9,8 +9,8 @@ fields:
   name: date
   label: date
 pages:
+- _posts/2019-03-17-átvilágítás.md
 - _posts/szigorú-feltételei-lesznek-a-babaváró-hitelnek.md
-- _posts/átvilágítás.md
 - adatvédelmi-tájékoztató.md
 - nem-használt-cuccok.md
 - _posts/fábián-gergely-banai-ádám-nagy-tamás-mennyiség-vs-minőség-mit-támogat-a-csok-1-rész.md
