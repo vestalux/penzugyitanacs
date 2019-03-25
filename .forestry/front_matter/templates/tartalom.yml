@@ -9,8 +9,8 @@ fields:
   name: date
   label: date
 pages:
-- _posts/2019-02-12-tudnivalók-gépjárműve-biztosításáról.md
 - _posts/2019-03-17-átvilágítás.md
+- _posts/2019-02-12-tudnivalók-gépjárműve-biztosításáról.md
 - nem-használt-cuccok.md
 - adatvédelmi-tájékoztató.md
 - _posts/2019-02-05-mnb-oktatófilm-pénzügyi-navigátor-tanácsadó-irodahálózat.md
