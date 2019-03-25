@@ -3,7 +3,7 @@ title: 'Szigorú feltételei lesznek a babaváró hitelnek'
 date: 2019-03-18 00:00:00 +0100
 ---
 
-[](/uploads/94748.jpg)
+![](/uploads/94748.jpg)
 
 **A rendelet szövegéből kiderül, hogy a hitel felvételéhez normál banki hitelbírálaton kell majd átesni és a törlesztőrészlet mellett havi néhány ezer forintos állami kezességvállalási díjat is kell majd fizetniük a pároknak.**
 
