@@ -9,6 +9,7 @@ fields:
   name: date
   label: date
 pages:
+- _posts/már-online-is-elérhető-a-kárbejelentő.md
 - _posts/az-ügyfelek-megtévesztéséért-súlyos-bírság-jár.md
 - _posts/háztartási-költségtervezés.md
 - _posts/kevesebbe-kerülhet-a-bankolás.md
