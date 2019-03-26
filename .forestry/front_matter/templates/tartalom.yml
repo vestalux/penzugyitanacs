@@ -9,6 +9,7 @@ fields:
   name: date
   label: date
 pages:
+- _posts/mnb-vlog-mik-az-előnyei-a-minősített-fogyasztóbarát-lakáshitelnek.md
 - _posts/már-online-is-elérhető-a-kárbejelentő.md
 - _posts/az-ügyfelek-megtévesztéséért-súlyos-bírság-jár.md
 - _posts/háztartási-költségtervezés.md
