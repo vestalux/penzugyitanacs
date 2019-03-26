@@ -15,6 +15,7 @@ fields:
   name: order
   label: Order
 pages:
+- a.md
 - _posts/háztartási-költségtervezés.md
 - _posts/mnb-vlog-mik-az-előnyei-a-minősített-fogyasztóbarát-lakáshitelnek.md
 - _posts/már-online-is-elérhető-a-kárbejelentő.md
