@@ -9,6 +9,7 @@ fields:
   name: date
   label: date
 pages:
+- _posts/háztartási-költségtervezés.md
 - _posts/kevesebbe-kerülhet-a-bankolás.md
 - _posts/2019-02-12-tudnivalók-gépjárműve-biztosításáról.md
 - nem-használt-cuccok.md
