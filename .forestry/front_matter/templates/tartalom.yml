@@ -8,6 +8,12 @@ fields:
 - type: datetime
   name: date
   label: date
+- type: boolean
+  label: Menu
+  name: menu
+- type: number
+  name: order
+  label: Order
 pages:
 - _posts/háztartási-költségtervezés.md
 - _posts/mnb-vlog-mik-az-előnyei-a-minősített-fogyasztóbarát-lakáshitelnek.md
