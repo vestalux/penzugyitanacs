@@ -5,7 +5,7 @@ menu: false
 order: ''
 
 ---
-**Egy értékpapírokat minősítő és azok kibocsátásához tanácsokat nyújtó cég alapítására kap lehetőséget a tőzsde a tőkepiaci törvény módosítása által.**
+**![](/uploads/11.jpg)Egy értékpapírokat minősítő és azok kibocsátásához tanácsokat nyújtó cég alapítására kap lehetőséget a tőzsde a tőkepiaci törvény módosítása által.**
 
 A kivételes eljárásban tárgyalt változtatást vasárnap nyújtotta be a **Pénzügyminisztérium**, hétfői ülésén támogatta az **Országgyűlés** törvényalkotási bizottsága, és arról már kedden szavazhat a Ház.
 
