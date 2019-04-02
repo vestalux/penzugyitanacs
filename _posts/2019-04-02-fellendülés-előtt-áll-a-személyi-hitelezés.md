@@ -1,6 +1,6 @@
 ---
 title: Fellendülés előtt áll a személyi hitelezés
-date: ''
+date: '2019-04-02 00:00:00 +0200'
 menu: false
 order: ''
 
