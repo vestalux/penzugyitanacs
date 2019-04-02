@@ -15,6 +15,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/fellendülés-előtt-áll-a-személyi-hitelezés.md
 - _posts/a-befektetőket-védenék-a-tőkepiaci-törvény-módosításával.md
 - _posts/pénzügyek-felsőfokon-légy-kreatív-2019.md
 - _posts/háztartási-költségtervezés.md
