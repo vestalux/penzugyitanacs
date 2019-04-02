@@ -15,6 +15,6 @@ _Csonga Péter_, az EY tanácsadója elmondta: „a szektor szereplői számára
 
 Hozzátette: a pénzintézeteknek emellett gyakorlatban is biztosítaniuk kell a megfelelő informatikai infrastruktúrát, kockázatkezelési rendszereket, adatkezelési és védelmi protokollokat. Ezek gyors és hatékony bevezetéséhez sok esetben nem elegendőek a pénzügyi intézményeken belüli erőforrások, így külső szakértőt is érdemes bevonni a folyamatba.
 
-Az EY szakértője jelezte: további könnyítés, hogy a jogszabályok az idei év eleje óta sok esetben már nem követelik meg az ügyfél-azonosításkor a valós idejű videókapcsolatot. Ez egyrészt jelentős javulást eredményezhet az úgynevezett ügyfélélmény tekintetében, másrészt tovább támogathatja a banki nyitvatartási időn kívüli szolgáltatások elterjedését.
+Az EY szakértője jelezte: további könnyítés,hogy a jogszabályok az idei év eleje óta sok esetben már nem követelik meg az ügyfél-azonosításkor a valós idejű videókapcsolatot. Ez egyrészt jelentős javulást eredményezhet az úgynevezett ügyfélélmény tekintetében, másrészt tovább támogathatja a banki nyitvatartási időn kívüli szolgáltatások elterjedését.
 
 (forrás: kamaraonline.hu)
