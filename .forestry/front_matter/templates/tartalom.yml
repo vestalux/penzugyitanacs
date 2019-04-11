@@ -15,6 +15,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/új-állampapír-jön.md
 - _posts/2019-02-12-tudnivalók-gépjárműve-biztosításáról.md
 - nem-használt-cuccok.md
 - adatvédelmi-tájékoztató.md
