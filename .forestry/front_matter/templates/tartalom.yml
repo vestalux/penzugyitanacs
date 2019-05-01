@@ -15,6 +15,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/jön-a-nyugdíjas-célú-állampapír.md
 - _posts/telefonos-csalás.md
 - _posts/kihelyezett-tanácsadás-nagyatádon.md
 - _posts/lakossági-tájékoztató-honlapot-indít-a-pénzügyminisztérium.md
