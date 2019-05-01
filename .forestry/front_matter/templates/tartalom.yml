@@ -15,6 +15,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/adathalász-támadásra-hívta-fel-a-figyelmet-az-otp-bank.md
 - _posts/a-kártyatársaságok-jelentősen-csökkentik-a-bankközi-díjakat-európában.md
 - _posts/ismét-ösztöndíj-pályázatot-hirdet-a-diákhitel-központ.md
 - _posts/az-új-szabályozás-biztonságosabbá-teszi-az-ingatlanalapok-működését.md
