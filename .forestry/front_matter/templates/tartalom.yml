@@ -15,6 +15,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/kihelyezett-tanácsadás-nagyatádon.md
 - _posts/lakossági-tájékoztató-honlapot-indít-a-pénzügyminisztérium.md
 - _posts/adathalász-támadásra-hívta-fel-a-figyelmet-az-otp-bank.md
 - _posts/a-kártyatársaságok-jelentősen-csökkentik-a-bankközi-díjakat-európában.md
