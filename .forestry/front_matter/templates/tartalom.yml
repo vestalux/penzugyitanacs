@@ -15,6 +15,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/kihelyezett-pénzügyi-tanácsadás-a-tesco-áruházakban.md
 - _posts/hello.md
 - _posts/kihelyezett-tanácsadás-nagyatádon.md
 - adatvédelmi-tájékoztató.md
