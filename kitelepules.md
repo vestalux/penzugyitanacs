@@ -7,7 +7,7 @@ description: 'Pénzügyi fogyasztóvédelem célja, hogy segítsük a lakosságo
 
 '
 menu: true
-order: "1"
+order: "2"
 
 ---
 **Pénzügyi Navigátor a tudatos fogyasztókért**
