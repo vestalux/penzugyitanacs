@@ -1,11 +1,10 @@
 ---
 layout: about
 title: Tudástár
-description: '.
-
-'
+description: ".\n"
 menu: true
-order: 1
+order: "1"
+published: false
 
 ---
 ### **Pénzügyi Navigátor a tudatos fogyasztókért**
