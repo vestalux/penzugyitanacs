@@ -3,7 +3,7 @@ title: Kezőlap
 description: >
   Kezdőlap
 menu: true
-order: 1
+order: "1"
 ---
 <html>
     <head>

@@ -5,7 +5,7 @@ description: 'Panaszkezelés
 
 '
 menu: true
-order: 4
+order: "4"
 
 ---
 Amennyiben pénzügyi szolgáltatással kapcsolatban panasza van, segítünk a pénzügyi intézménnyel való kapcsolatfelvételben (panaszlevél, méltányossági kérelem elkészítése), továbbá posta készen elkészítjük a Pénzügyi Békéltető Testület, valamint az MNB fogyasztóvédelmi eljárása megindításához szükséges beadványt.

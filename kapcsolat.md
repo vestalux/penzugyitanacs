@@ -1,9 +1,7 @@
 ---
 layout: about
 title: Kapcsolat
-description: 'Foglaljon időpontot személyes tanácsadásra
-
-'
+description: 'Foglaljon időpontot személyes tanácsadásra'
 menu: true
 order: "6"
 
