@@ -1,13 +1,13 @@
 ---
 layout: about
-title: Pénzügyi fogyasztóvédelem
+title: Pénzügyi Navigátor
 description: 'Pénzügyi fogyasztóvédelem célja, hogy segítsük a lakosságot a  pénzügyi
   vállalkozásokkal, szolgáltatókkal szemben felmerülő  vitás ügyek megoldásában, tanácsot
   adjunk  pénzügyi döntéseikben, pénzügyi tudatosságuk fejlesztésében.
 
 '
 menu: true
-order: 1
+order: "1"
 
 ---
 **Pénzügyi Navigátor a tudatos fogyasztókért**
