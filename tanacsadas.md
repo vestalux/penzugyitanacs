@@ -7,7 +7,7 @@ description: 'Somogy megye több településén  is biztosítjuk a pénzügyi fo
 
 '
 menu: true
-order: 2
+order: "3"
 
 ---
 **INFORMÁCIÓK A TANÁCSADÓ IRODA MŰKÖDÉSÉRŐL ÉS SZOLGÁLTATÁSÁRÓL**
