@@ -15,6 +15,7 @@ fields:
   name: order
   label: Order
 pages:
+<<<<<<< HEAD
 - _posts/késik-az-azonnali-fizetés-bevezetése-jenleg-a-teszt-üzem-zajlik.md
 - _posts/kihelyezett-pénzügyi-tanácsadás-a-tesco-áruházakban.md
 - _posts/megnyitott-az-új-takarékbank.md
@@ -26,19 +27,22 @@ pages:
 - _posts/digitális-megoldások-egyre-kedveltebbek-a-banki-szolgáltatásoknál.md
 - _posts/jegyezhető-az-eddigi-legkedvezőbb-hozamot-biztosító-állampapír.md
 - _posts/hello.md
+=======
+- _posts/jön-a-nyugdíjas-célú-állampapír.md
+- _posts/telefonos-csalás.md
+>>>>>>> parent of 2dc2f7c... Update from Forestry.io
 - _posts/kihelyezett-tanácsadás-nagyatádon.md
-- adatvédelmi-tájékoztató.md
-- _posts/új-állampapír-jön.md
+- _posts/lakossági-tájékoztató-honlapot-indít-a-pénzügyminisztérium.md
+- _posts/adathalász-támadásra-hívta-fel-a-figyelmet-az-otp-bank.md
+- _posts/a-kártyatársaságok-jelentősen-csökkentik-a-bankközi-díjakat-európában.md
+- _posts/ismét-ösztöndíj-pályázatot-hirdet-a-diákhitel-központ.md
 - _posts/az-új-szabályozás-biztonságosabbá-teszi-az-ingatlanalapok-működését.md
-- nem-használt-cuccok.md
+- _posts/új-állampapír-jön.md
 - _posts/2019-02-12-tudnivalók-gépjárműve-biztosításáról.md
+- nem-használt-cuccok.md
+- adatvédelmi-tájékoztató.md
+- _posts/2019-02-05-mnb-oktatófilm-pénzügyi-navigátor-tanácsadó-irodahálózat.md
+- _posts/2019-02-03-vigyázz-kiben-bízol-az-ördög-is-egyszer-angyal-volt-jogosulatlan-szolgáltatók.md
 - _posts/2019-02-02-egyre-drágábbak-a-számlahitelek.md
 - _posts/2019-02-01-megújult-500-forintos-bankjegyek.md
-- _posts/2019-02-03-vigyázz-kiben-bízol-az-ördög-is-egyszer-angyal-volt-jogosulatlan-szolgáltatók.md
-- _posts/2019-02-05-mnb-oktatófilm-pénzügyi-navigátor-tanácsadó-irodahálózat.md
-- _posts/ismét-ösztöndíj-pályázatot-hirdet-a-diákhitel-központ.md
-- _posts/a-kártyatársaságok-jelentősen-csökkentik-a-bankközi-díjakat-európában.md
-- _posts/adathalász-támadásra-hívta-fel-a-figyelmet-az-otp-bank.md
-- _posts/lakossági-tájékoztató-honlapot-indít-a-pénzügyminisztérium.md
-- _posts/telefonos-csalás.md
-- _posts/jön-a-nyugdíjas-célú-állampapír.md
+- _posts/hello.md
