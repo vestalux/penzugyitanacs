@@ -3,7 +3,7 @@ layout: about
 title: Adatkezelési tájékoztató
 description: ''
 menu: true
-order: "6"
+order: "7"
 
 ---
 **Adatkezelési tájékoztató**
