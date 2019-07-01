@@ -8,9 +8,10 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: boolean
-  label: Menu
-  name: menu
+  config:
+    date_format: YYYY-MM-DD
+    time_format: HH:mm A ZZ
+    export_format: YYYY-MM-DD HH:mm A ZZ
 - type: number
   name: order
   label: Order
