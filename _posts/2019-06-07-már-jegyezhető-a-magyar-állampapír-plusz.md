@@ -1,6 +1,6 @@
 ---
 title: Már jegyezhető a Magyar Állampapír Plusz
-date: 
+date: 2019-06-07 00:06:00
 menu: false
 order: 
 
