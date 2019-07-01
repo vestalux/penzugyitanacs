@@ -15,13 +15,14 @@ fields:
   name: order
   label: Order
 pages:
-- _posts/2019-05-14-erste-veszi-át-az-aegon-lakástakarékpénztár-szerződéseit.md
-- _posts/hello.md
+- _posts/test.md
 - _posts/már-jegyezhető-a-magyar-állampapír-plusz.md
-- adatvédelmi-tájékoztató.md
-- nem-használt-cuccok.md
-- _posts/2019-02-12-tudnivalók-gépjárműve-biztosításáról.md
-- _posts/2019-02-02-egyre-drágábbak-a-számlahitelek.md
-- _posts/2019-02-01-megújult-500-forintos-bankjegyek.md
-- _posts/2019-02-03-vigyázz-kiben-bízol-az-ördög-is-egyszer-angyal-volt-jogosulatlan-szolgáltatók.md
+- _posts/2019-05-14-erste-veszi-át-az-aegon-lakástakarékpénztár-szerződéseit.md
 - _posts/2019-02-05-mnb-oktatófilm-pénzügyi-navigátor-tanácsadó-irodahálózat.md
+- _posts/2019-02-03-vigyázz-kiben-bízol-az-ördög-is-egyszer-angyal-volt-jogosulatlan-szolgáltatók.md
+- _posts/2019-02-01-megújult-500-forintos-bankjegyek.md
+- _posts/2019-02-02-egyre-drágábbak-a-számlahitelek.md
+- _posts/2019-02-12-tudnivalók-gépjárműve-biztosításáról.md
+- nem-használt-cuccok.md
+- adatvédelmi-tájékoztató.md
+- _posts/hello.md
