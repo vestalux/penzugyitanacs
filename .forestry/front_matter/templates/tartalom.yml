@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/elindult-a-falusi-csok.md
 - _posts/megszokásból-fizetünk-készpénzzel.md
 - _posts/az-adósságlimitek-nem-korlátozzák-az-állami-támogatások-igénybevételét.md
 - _posts/utazás-előtti-hasznos-információk.md
