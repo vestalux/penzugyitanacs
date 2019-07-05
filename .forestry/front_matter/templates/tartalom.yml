@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/két-hónappal-meghosszabbítják-a-banki-adategyeztetés-határidejét.md
 - _posts/2019-06-25-akár-havi-100-ezer-forintos-jövedelem-is-elég-lehet-a-babaváró-hitelhez.md
 - _posts/megbírságolták-a-providentet.md
 - _posts/kihelyezett-pénzügyi-tanácsadás.md
