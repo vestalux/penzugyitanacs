@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/megszokásból-fizetünk-készpénzzel.md
 - _posts/az-adósságlimitek-nem-korlátozzák-az-állami-támogatások-igénybevételét.md
 - _posts/utazás-előtti-hasznos-információk.md
 - _posts/két-hónappal-meghosszabbítják-a-banki-adategyeztetés-határidejét.md
