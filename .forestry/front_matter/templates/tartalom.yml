@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/a-diákhitel-nyelvtanulásra-is-felhasználható.md
 - _posts/kétmillió-bankszámla-adatai-hiányosak.md
 - _posts/2019-05-14-erste-veszi-át-az-aegon-lakástakarékpénztár-szerződéseit.md
 - _posts/2019-02-05-mnb-oktatófilm-pénzügyi-navigátor-tanácsadó-irodahálózat.md
