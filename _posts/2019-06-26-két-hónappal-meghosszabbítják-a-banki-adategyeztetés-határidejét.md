@@ -19,3 +19,5 @@ A javaslat a meghosszabbított határidőn belül történő hatékony végrehaj
 Az indoklás szerint ez egyrészt lehetőséget teremt a szolgáltatók számára az egyértelmű, ügyfélspecifikus figyelemfelhívásra, másrészt az érintett ügyfélkör egyértelműen tudomást szerez a hiányzó adatok és nyilatkozatok pótlására vonatkozó kötelezettségéről, és annak meghosszabbításáról augusztus 31-ig.
 
 _Varga Mihály_ jelezte, hogy szükségesnek tartja a törvényjavaslatnak a határozati házszabályi rendelkezésektől eltérő tárgyalását. A javaslat elfogadása esetén kihirdetése napján, 18 órakor lép hatályba.
+
+forrás: kamaraonline.hu
