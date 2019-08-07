@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/márciusra-halasztotta-az-azonnali-fizetési-rendszer-bevezetését-az-mnb.md
 - _posts/minden-eddiginél-kedvezőbb-feltételekkel-vehetők-igénybe-a-diákhitelek.md
 - _posts/kihelyezett-pénzügyi-tanácsadás-1.md
 - _posts/a-gvh-a-bankkártya-elfogadás-ösztönzését-javasolja.md
