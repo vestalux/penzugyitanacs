@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/kihelyezett-pénzügyi-tanácsadás-1.md
 - _posts/a-gvh-a-bankkártya-elfogadás-ösztönzését-javasolja.md
 - _posts/2019-07-12-időpontváltozás.md
 - _posts/mit-tegyünk-hogy-más-ne-férjen-hozzá-a-bankban-tartott-pénzünkhöz.md
