@@ -16,7 +16,7 @@ fields:
   name: order
   label: Order
 pages:
-- _posts/időpontváltozás.md
+- _posts/2019-07-12-időpontváltozás.md
 - _posts/mit-tegyünk-hogy-más-ne-férjen-hozzá-a-bankban-tartott-pénzünkhöz.md
 - _posts/babaváró-hitel-lépésről-lépésre-mutatjuk-hogyan-kell-igényelni.md
 - _posts/megszokásból-fizetünk-készpénzzel.md
