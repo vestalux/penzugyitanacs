@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/elindult-a-falusi-csok.md
 - _posts/2019-07-26-márciusra-halasztotta-az-azonnali-fizetési-rendszer-bevezetését-az-mnb.md
 - _posts/minden-eddiginél-kedvezőbb-feltételekkel-vehetők-igénybe-a-diákhitelek.md
 - _posts/kihelyezett-pénzügyi-tanácsadás-1.md
@@ -26,7 +27,6 @@ pages:
 - _posts/megszokásból-fizetünk-készpénzzel.md
 - _posts/2019-06-12-a-diákhitel-nyelvtanulásra-is-felhasználható.md
 - _posts/2019-05-14-erste-veszi-át-az-aegon-lakástakarékpénztár-szerződéseit.md
-- _posts/elindult-a-falusi-csok.md
 - _posts/az-adósságlimitek-nem-korlátozzák-az-állami-támogatások-igénybevételét.md
 - _posts/utazás-előtti-hasznos-információk.md
 - _posts/két-hónappal-meghosszabbítják-a-banki-adategyeztetés-határidejét.md

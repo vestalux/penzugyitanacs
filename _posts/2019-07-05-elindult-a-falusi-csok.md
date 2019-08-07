@@ -4,7 +4,9 @@ date: 2019-07-05 00:07:00
 order: 
 
 ---
-![Fotó: Napi.hu](http://kapos.hu/static/keptar/15/b/4192 =840x)**Hétfőtől már igényelhető a támogatás a bankokban.**
+![](/uploads/Csok-2019-összege-feltételei-részletei-777x409.jpg)
+
+**Hétfőtől már igényelhető a támogatás a bankokban.**
 
 Július 1-jével hatályba lépett kistelepülési otthonteremtési támogatás csaknem 2500 magyarországi kistelepülésen elérhető használt lakás vagy ház vásárlásához, korszerűsítéséhez, valamint meglévő lakás vagy ház bővítéséhez, korszerűsítéséhez - tájékoztatta az MTI-t Gyopáros Alpár, a modern települések fejlesztéséért felelős kormánybiztos.
 
