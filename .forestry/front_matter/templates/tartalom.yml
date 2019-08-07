@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/minden-eddiginél-kedvezőbb-feltételekkel-vehetők-igénybe-a-diákhitelek.md
 - _posts/kihelyezett-pénzügyi-tanácsadás-1.md
 - _posts/a-gvh-a-bankkártya-elfogadás-ösztönzését-javasolja.md
 - _posts/2019-07-12-időpontváltozás.md
