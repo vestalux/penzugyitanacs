@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/mnb-vlog-mik-az-előnyei-a-minősített-fogyasztóbarát-lakáshitelnek.md
 - _posts/mnb-vlog-mennyiben-lesz-könnyebb-az-utalás-márciustól.md
 - _posts/elindult-a-falusi-csok.md
 - _posts/2019-07-26-márciusra-halasztotta-az-azonnali-fizetési-rendszer-bevezetését-az-mnb.md
