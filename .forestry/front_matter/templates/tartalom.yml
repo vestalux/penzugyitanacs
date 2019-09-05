@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/hitel-felvétel-előtt-tájékozódjon-a-törlesztőrészletről-és-a-hitelfedezeti-mutatóról-️.md
 - _posts/kihelyezett-tanácsadások.md
 - _posts/mnb-vlog-mik-az-előnyei-a-minősített-fogyasztóbarát-lakáshitelnek.md
 - _posts/mnb-vlog-mennyiben-lesz-könnyebb-az-utalás-márciustól.md
