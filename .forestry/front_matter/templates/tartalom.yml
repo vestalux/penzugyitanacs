@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/van-segítség-ha-külföldi-bankokkal-biztosítókkal-vitatkozunk.md
 - _posts/fontos-változások-a-bankolásban.md
 - _posts/az-mnb-újabb-12-hónapot-ad-az-ügyfélhitelesítésre-való-felkészülésre.md
 - _posts/pénzforgalmi-jogszabálysértések-miatt-az-mnb-13-millió-ft-bírságot-vetett-ki-a-k-h-bank-zrt-re.md
