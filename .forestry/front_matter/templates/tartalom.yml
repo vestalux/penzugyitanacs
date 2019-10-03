@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/október-végéig-kell-elvégezni-a-kötelező-banki-adategyeztetést.md
 - _posts/kihelyezett-tanácsadásaink.md
 - _posts/ne-hagyd-magad.md
 - _posts/a-középkorú-lakosság-körében-nőtt-az-adósok-száma.md
