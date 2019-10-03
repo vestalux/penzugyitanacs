@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/pénzügyi-tanácsadás-kicsit-másképp.md
 - _posts/újabb-jelentős-bírság-a-quantis-consulting-biztosításközvetítőnek.md
 - _posts/vigyázz-csalók.md
 - _posts/2019-09-20-van-segítség-ha-külföldi-bankokkal-biztosítókkal-vitatkozunk.md
