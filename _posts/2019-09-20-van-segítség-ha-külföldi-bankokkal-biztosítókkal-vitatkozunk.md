@@ -1,0 +1,11 @@
+---
+title: Van segítség, ha külföldi bankokkal, biztosítókkal vitatkozunk
+date: 2019-09-20 00:09:00
+order: 
+
+---
+![](/uploads/MNB_logo.jpg)
+
+Nem kell külföldre menni, itthon is ingyenesen és gyorsan intézheti a határon átnyúló pénzügyi jogvitákat.  
+Egyre több hazai ügyfélnek olyan pénzügyi intézménnyel (bank, biztosító, befektetési szolgáltatóval stb.) támad anyagi, elszámolási jogvitája, amelynek székhelye az Európai Gazdasági Térség (EGT) – az Európai Unió, Izland Lichtenstein, vagy Norvégia – területén van (s itthon még fióktelepe sincs). Jó példa erre, ha egy magyarországi lakó/tartózkodási hellyel rendelkező ügyfél egy németországi székhelyű biztosítóval köt befektetési életbiztosítást az interneten. Szintén e körbe tartozik, ha az MNB által felügyelt pénzügyi intézmény székhelye Magyarországon van, míg az érintett fogyasztó lakó/tartózkodási helye más EGT államban. Ilyen eset, ha például egy szerb állampolgár magyarországi autóbalesetét követően a károkozó magyar gépjármű vezetőjének hazai biztosítójával szemben lép fel kárigénnyel. A pénzügyi intézménnyel szembeni panaszt – határon átnyúló jogvita esetén is – először az adott társaság felé kell jelezni (postán, e-mailben, a szolgáltató honlapján formanyomtatványon vagy másképp leírva, esetleg személyesen). Így esélyt kap arra, hogy a problémát anélkül rendezze, hogy a továbbiakban más jogorvoslati lehetőséggel kelljen élni. Az intézménynek 30 - pénzforgalmi panasz esetén 15 – napja van a panasz kivizsgálására. Ha azt elutasítja, vagy nem válaszol határidőre, az ügyfél dönthet arról, hogy a saját lakóhelye vagy a pénzügyi intézmény székhelye szerint illetékes pénzügyi békéltető testülethez, azaz alternatív vitarendezési fórumhoz fordul. A megfelelő, a határon túli jogvitában segíteni tudó fórum megtalálásban a FIN Net hálózat nyújt információt, amelynek a magyar Pénzügyi Békéltető Testület (PBT) is tagja.  
+Bővebb információ az MNB oldalán olvasható. Szerzője Cserépi Judit a Pénzügyi Békéltető Testület tagja. [https://www.mnb.hu/](https://www.mnb.hu/ "https://www.mnb.hu/")[…/cserepi-judit-van-segitseg-ha-vitazunk…](https://www.mnb.hu/kiadvanyok/szakmai-cikkek/felugyelet/cserepi-judit-van-segitseg-ha-vitazunk-a-kulfoldi-bankokkal-biztositoval?fbclid=IwAR1Mjp3dE4aoUmXf6_gwU9ndccozk4lE5Ik8XyHk5RysaEoh1ohXlfwmGDE)
