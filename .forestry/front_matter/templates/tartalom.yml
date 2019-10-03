@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/kihelyezett-tanácsadásaink.md
 - _posts/ne-hagyd-magad.md
 - _posts/a-középkorú-lakosság-körében-nőtt-az-adósok-száma.md
 - _posts/egyre-népszerűbb-a-babaváró-hitel.md
