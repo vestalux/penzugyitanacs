@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/pénzforgalmi-jogszabálysértések-miatt-az-mnb-13-millió-ft-bírságot-vetett-ki-a-k-h-bank-zrt-re.md
 - _posts/október-végéig-kell-elvégezni-a-kötelező-banki-adategyeztetést.md
 - _posts/kihelyezett-tanácsadásaink.md
 - _posts/ne-hagyd-magad.md
