@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/az-adategyeztetés-október-31-ei-határidejére-figyelmeztet-az-mnb.md
 - _posts/pénzügyi-tanácsadás-kicsit-másképp.md
 - _posts/újabb-jelentős-bírság-a-quantis-consulting-biztosításközvetítőnek.md
 - _posts/vigyázz-csalók.md
