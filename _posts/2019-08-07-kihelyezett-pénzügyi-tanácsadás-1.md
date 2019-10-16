@@ -1,7 +1,7 @@
 ---
 title: Kihelyezett pénzügyi tanácsadás
-date: 
-order: 
+date: 2019-08-07 00:08:00
+order:
 
 ---
 ![](/uploads/zs_ kihelyezett tanácsadás.jpg)

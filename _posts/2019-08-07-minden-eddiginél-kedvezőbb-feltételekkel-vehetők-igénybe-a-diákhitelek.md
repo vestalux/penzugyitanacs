@@ -1,7 +1,7 @@
 ---
 title: Minden eddiginél kedvezőbb feltételekkel vehetők igénybe a diákhitelek
-date: 
-order: 
+date: 2019-08-07 00:08:00
+order:
 
 ---
 ![](/uploads/images (1).jpg)

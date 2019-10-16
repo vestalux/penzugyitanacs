@@ -1,7 +1,7 @@
 ---
 title: Ne hagyd magad!
 date: 2019-09-09 00:09:00
-order: 
+order:
 
 ---
 ![](/uploads/jog_gal_okosodjunk.jpg)
