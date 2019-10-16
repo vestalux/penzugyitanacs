@@ -1,7 +1,7 @@
 ---
 title: Pénzügyi tanácsadás kicsit másképp!
-date: 
-order: 
+date: 2019-10-03 00:10:00
+order:
 
 ---
 ![](/uploads/zs_ kihelyezett tanácsadás.jpg)

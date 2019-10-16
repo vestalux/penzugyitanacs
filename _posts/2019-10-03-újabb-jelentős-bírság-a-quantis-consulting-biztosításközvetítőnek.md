@@ -1,7 +1,7 @@
 ---
 title: Újabb jelentős bírság a QUANTIS Consulting biztosításközvetítőnek
-date: 
-order: 
+date: 2019-10-03 00:10:00
+order:
 
 ---
 ![](/uploads/MNB_logo.jpg)

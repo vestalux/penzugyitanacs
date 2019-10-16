@@ -1,7 +1,7 @@
 ---
 title: Fontos változások a bankolásban
-date: 
-order: 
+date: 2019-10-03 00:10:00
+order:
 
 ---
 ![](/uploads/45.jpg)
