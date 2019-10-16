@@ -1,7 +1,8 @@
 ---
 title: Kétmillió bankszámla adatai hiányosak
 date: 2019-06-09 00:06:00
-order: 
+menu: false
+order:
 
 ---
 ![](/uploads/letöltés (5).jpg)
