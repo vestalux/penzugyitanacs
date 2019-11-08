@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/kihelyezett-tanácsadás.md
 - _posts/szigorította-az-ákk-a-lakossági-állampapírok-értékesítésének-szabályait.md
 - _posts/2019-06-25-akár-havi-100-ezer-forintos-jövedelem-is-elég-lehet-a-babaváró-hitelhez.md
 - _posts/2019-05-14-erste-veszi-át-az-aegon-lakástakarékpénztár-szerződéseit.md
