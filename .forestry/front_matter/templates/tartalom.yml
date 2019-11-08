@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/kivezetik-a-régi-500-ast.md
 - _posts/mnb-ideiglenesen-felfüggesztette-a-cig-emabit-tevékenységét.md
 - _posts/világraszóló-újítást-vezet-be-a-viber-és-a-mastercard-magyarországon.md
 - _posts/segítünk.md
