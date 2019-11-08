@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/segítünk.md
 - _posts/a-magyar-fejlesztési-bank-új-versenyképességi-hitelprogramot-jelentett-be.md
 - az-mnb-15-millió-forint-bírsággal-sújtotta-a-mic-biztosítási-alkuszt.md
 - _posts/megéri-e-hitelből-állampapírt-vásárolni.md
