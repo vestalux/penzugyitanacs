@@ -16,8 +16,8 @@ fields:
   name: order
   label: Order
 pages:
-- _posts/megjelentek-a-kötelező-gépjármű-biztosítás-jövő-évi-tarifái.md
 - _posts/honnan-tudjuk-melyik-a-legjobb-nyugdíjpénztári-ajánlat.md
+- _posts/megjelentek-a-kötelező-gépjármű-biztosítás-jövő-évi-tarifái.md
 - _posts/kivezetik-a-régi-500-ast.md
 - _posts/mnb-ideiglenesen-felfüggesztette-a-cig-emabit-tevékenységét.md
 - _posts/világraszóló-újítást-vezet-be-a-viber-és-a-mastercard-magyarországon.md
