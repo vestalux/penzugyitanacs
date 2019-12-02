@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/jön-minősített-fogyasztóbarát-otthonbiztosítás-️.md
 - _posts/150-ezer-banki-ügyfél-még-nem-azonosította-magát.md
 - _posts/rázós-pletyka-terjed-a-szuperállampapírról-és-a-babaváró-hitelről-tisztázzuk-a-helyzetet.md
 - _posts/mi-történt-a-takarékbanknál.md
