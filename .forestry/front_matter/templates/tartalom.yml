@@ -16,6 +16,7 @@ fields:
   name: order
   label: Order
 pages:
+- _posts/rázós-pletyka-terjed-a-szuperállampapírról-és-a-babaváró-hitelről-tisztázzuk-a-helyzetet.md
 - _posts/mi-történt-a-takarékbanknál.md
 - _posts/kihelyezett-tanácsadásaink.md
 - _posts/megjelentek-a-kötelező-gépjármű-biztosítás-jövő-évi-tarifái-1.md
