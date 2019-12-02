@@ -1,5 +1,5 @@
 ---
-title: Kihelyezett tanácsadásaink
+title: 'Kihelyezett tanácsadásaink '
 date: 2019-11-30 00:11:00
 order: 
 
