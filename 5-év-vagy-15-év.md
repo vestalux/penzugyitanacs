@@ -4,9 +4,7 @@ date: 2020-01-23 00:01:00
 order: 
 
 ---
-![](/uploads/22.jpg)
-
-Ezzel a kérdéssel kereste fel Pénzügyi Navigátor Tanácsadó irodánkat Éva és Tamás.  
+![A képen a következők lehetnek: 2 ember, ülő emberek és cipők](https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/84401097_869134840186022_7665853209826557952_n.jpg?_nc_cat=103&_nc_ohc=i5hYNhytKcgAX9ggq6A&_nc_ht=scontent-vie1-1.xx&oh=46fb2e3a5bd43c73c9c4f463d79bdf63&oe=5ED23FF3)Ezzel a kérdéssel kereste fel Pénzügyi Navigátor Tanácsadó irodánkat Éva és Tamás.  
 Életük nagy döntése előtt állnak, lakást szeretnének vásárolni, amihez hitelt is fel kell venniük.  
 A forint alapú hitelt és a bankot már kiválasztották, a kérdésük csak volt, hogy az  
 🔹 5, vagy a 15 éves 🔸kamatperiódusú lakáshitelt válasszák?  
