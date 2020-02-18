@@ -10,5 +10,4 @@ Ha vitás ügye van bankjával, biztosítójával, vagy fizetési nehézségekke
 Várjuk Lengyeltótiban a Zrínyi Miklós utca 2, Polgármesteri Hivatal előterében!
 
 Időpont: 2020.02.19.
-
 https://www.facebook.com/watch/?v=128186121846628
