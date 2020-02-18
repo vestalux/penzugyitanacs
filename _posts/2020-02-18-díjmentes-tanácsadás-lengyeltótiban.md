@@ -11,4 +11,4 @@ Várjuk Lengyeltótiban a Zrínyi Miklós utca 2, Polgármesteri Hivatal előter
 
 Időpont: 2020.02.19.
 
-    https://www.facebook.com/watch/?v=128186121846628
+https://www.facebook.com/watch/?v=128186121846628
