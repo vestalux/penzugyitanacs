@@ -1,0 +1,13 @@
+---
+title: Számos módja van az elektronikus fizetési lehetőség biztosításának
+date: 2020-11-26 00:11:00
+order: 
+
+---
+![A képen a következők lehetnek: egy vagy több ember](https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/129062865_1104062926693211_8480590548779818473_o.png?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=ci8_OVLuXAkAX-ESjhA&_nc_ht=scontent-vie1-1.xx&oh=65c12fe81331f99ad82a63a06b15b00e&oe=601FFFE4)
+
+Több megoldás közül is választhatnak az online kasszát használó kereskedők, hogy megfeleljenek a törvényi előírásoknak, miszerint a következő évtől biztosítaniuk kell az elektronikus fizetés lehetőségét – reagált Gion Gábor pénzügyekért felelős államtitkár a Kereskedők és Vendéglátók Országos Érdekképviseleti Szövetsége felvetésére, amellyel a január elsejei határidő módosítását kezdeményezik.
+
+Az államtitkár kiemelte: a kereskedőknek kellő idejük volt a felkészülésre, emellett egyszerűbb megoldásokkal is megfelelhetnek az előírásnak, például a hagyományos átutalás lehetőségének biztosításával. Megoldást jelenthet a bankkártyák vagy a telefonos fizetés elfogadása: ekkor úgynevezett POS terminált kell rendszeresítenie az üzletnek – ismertette Gion Gábor. Mint mondta: már elérhető olyan technológia is, amely a kereskedő mobiltelefonját teszi alkalmassá az érintős kártyák leolvasására. Ugyanakkor mobilszolgáltatók is biztosítanak olyan eszközt, amelynek használatával megoldható a kártyás fizetés (mPOS). A legelterjedtebb fizetési mód a kártyás fizetés, azonban rendelkezésre áll az azonnali fizetés lehetősége is, amelynek technikai megvalósítása egy adott üzletben minimális tárgyi befektetést igényel. Ennek is több megoldása van, a hagyományos átutalástól kezdve a QR kód generálásán át a másodlagos azonosítók (mobilszám, e-mail cím, amit másodlagos azonosítóként a kereskedő hozzárendelt a bankszámlához) megadásáig. A pénzügyi kormányzat abban bízik, hogy hamarosan lesznek olyan gyors és biztonságos, az azonnali fizetésen alapuló mobiltelefonos alkalmazások, amelyek – szem előtt tartva az adatbiztonságot – megkönnyíthetik majd a fizetést. Az államtitkár hozzátette: a kereskedőknek csaknem fél év állt rendelkezésükre, hogy felkészüljenek a változásokra. Jelenleg hatvanezer olyan kereskedő szerepel a nyilvántartásban, amely online kasszát használ, azonban kizárólag készpénzt fogad el. A szabályozás több szempontból is előnyös a magyar gazdaságra nézve: azon túl, hogy vásárlók kényelmét is szolgálja, az elektronikus fizetés hasznos lehet a feketegazdaság ellen, az intézkedés több tízmilliárd forinttal csökkentheti a készpénzhasználatot. Ez a mostani járvánnyal terhelt időszakban kiemelt fontossággal bír.
+
+(Forrás: Pénzügyminisztérium)
