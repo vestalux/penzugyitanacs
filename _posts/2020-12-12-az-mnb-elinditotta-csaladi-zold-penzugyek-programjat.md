@@ -1,0 +1,21 @@
+---
+title: Az MNB elindította Családi Zöld Pénzügyek programját
+date: 2020-12-12 00:12:00
+order: 
+
+---
+![A képen a következők lehetnek: , szöveg, amely így szól: „MAGYAR NEMZETI BANK”](https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/131262180_1110226056076898_857580042608969224_n.png?_nc_cat=111&ccb=2&_nc_sid=730e14&_nc_ohc=uts0EIdHjX8AX-Ipq2l&_nc_ht=scontent-vie1-1.xx&oh=8c6744f4681245ec9a505a208f114c55&oe=60228DF8)
+
+A Magyar Nemzeti Bank a karácsonyi időszak közeledtével indította útjára új, Családi Zöld Pénzügyek programját, mellyel arra kívánja felhívni a figyelmet, hogy a pénzügyek tudatos kezelése egyben a fenntarthatóságot is szolgálja. A Pénzügyi Navigátor honlapon elérhető ökolábnyom-kalkulátorral kiszámítható az egyéni fogyasztási szokások környezetre gyakorolt hatása, emellett számos praktikus, környezet- és pénztárcabarát tanács, gyakorlati információ is olvasható a felületen.
+
+A hosszabb távú gazdasági növekedés és a fenntartható fejlődés napjainkban már nem választható el egymástól. A Magyar Nemzeti Bank ezért tevékenységével elkötelezetten és aktívan kívánja támogatni a környezeti fenntarthatóságot. Az MNB egyrészt törekszik saját ökológiai lábnyomának csökkentésére, másrészt 2019-ben elindította Zöld Programját, amelynek keretében a hazai pénzügyi intézmények számára kedvező szabályozási környezetet kíván biztosítani a fenntartható működés elősegítéséhez és a zöld termékek bevezetéséhez. A jegybank fontos célkitűzése továbbá, hogy a hazai lakosságot célzó pénzügyi ismeretterjesztést, illetve tudatos fogyasztói szemléletformálást kitágítsa, és felhívja a figyelmet arra, hogy a pénzügyek tudatos kezelése a környezet szolgálatába is állítható.
+
+Ez a törekvés hívta életre a Pénzügyi Navigátor tájékoztató tartalmakhoz kapcsolódó új, Családi Zöld Pénzügyek programot, mely az egyének, családok számára kíván a jövőben folyamatosan hasznos, gyakorlati segítséget biztosítani ahhoz, hogy a mindennapi szokások átalakításával miként csökkenthető egyidejűleg a környezeti terhelés és a család többletkiadásainak mértéke. A Családi Zöld Pénzügyek program alapelve, hogy ökológiai lábnyomunk csökkentése kifizetődő. A tudatos fogyasztói döntések, a hosszú távú gondolkodás és a fenntartható életmód jótékony hatással van egyrészt a pénztárcánkra, másrészt a környezetünkre. A Pénzügyi Navigátor oldalon indított új tartalom másik célja, hogy az egyének, háztartások felismerjék, befektetéseikkel közvetve ők is finanszírozhatnak fenntarthatóságot szolgáló beruházásokat, igénybe vehetik az egyre bővülő „zöld termékek” körét. Így fogyasztási és befektetési döntéseikkel nap mint nap hozzájárulhatnak a hosszú távú fenntarthatóság, valamint a következő generációk életminőségének javításához.
+
+A Pénzügyi Navigátor oldalon elérhető ökolábnyom-kalkulátor segítségével kiszámítható egy adott háztartás, család fogyasztási szokásainak környezetre gyakorolt hatása, azaz egyéni ökológiai lábnyoma. Ennek lehetséges csökkentéséhez a honlap számos gyakorlati tanáccsal, hasznos információval szolgál, melyek a családi kiadások és a környezeti terhelés négy fő területéhez kapcsolódnak: étkezés, lakhatás és rezsi, közlekedés, vásárlás. Mindez különösen aktuális az év utolsó hónapjában is, hiszen a karácsony az egyik legmegterhelőbb időszak mind a családi kassza, mind a Föld környezeti terhelése szempontjából.
+
+Háttér
+
+Mi az ökológiai lábnyom?
+
+Az ökológiai lábnyom az emberi tevékenység természeti erőforrások iránti igényének lenyomata. Minden emberi tevékenységnek van területigénye – ami lehet szárazföldi és tengeri egyaránt –, ezen területek összességét nevezzük ökológiai lábnyomnak. Ahhoz, hogy megnézzük, egyensúly van-e az emberi tevékenység és a természeti erőforrások között, össze kell hasonlítanunk az emberiség ökológiai lábnyomát a Föld eltartóképességével, vagyis biokapacitásával. Az egyensúly a hetvenes évek elején felborult, azóta az emberek erőforrások iránti igénye meghaladja a Föld megújuló képességét. Az emberiség erőforrásigénye évről évre nagyobb, mint amennyit bolygónk fenntarthatóan nyújtani tud. Jelenleg 1,6 Föld tudná csak kielégíteni az emberiség teljes szükségletét.
