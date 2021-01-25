@@ -1,0 +1,25 @@
+---
+title: Javult a vállalatok és a háztartások konjunktúraérzete
+date: 2021-01-12 00:01:00
+order: 
+
+---
+![Nem érhető el leírás a fényképhez.](https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/138795613_1130519137380923_8394994072042364208_n.png?_nc_cat=100&ccb=2&_nc_sid=730e14&_nc_ohc=OCbitqV0NOgAX9JTApJ&_nc_ht=scontent-vie1-1.xx&oh=dbfa9bb2d6d701161ff814a39087c6a8&oe=6035ED7D)
+
+Tavaly decemberben érdemben javult a lakosság és a vállalatok gazdasági közérzete. A javulásban közrejátszhatott, hogy a gazdasági szereplők egyre közelebb érzik a vakcinát és ezzel a járványhelyzet végét, illetve hogy a tavaszi tapasztalatokból kifolyólag novemberben túlbecsülhették a bevezetett korlátozások hatását – közölte a Századvég Gazdaságkutató legfrissebb elemzésében.  
+  
+A lakossági index értéke a novemberi mínusz 14,9 pontról mínusz 10,6 pontra, míg a vállalati index értéke mínusz 21,4 pontról mínusz 16,4 pontra emelkedett a -100 és +100 közötti skálán. A gazdasági közérzet további javulásához a járványhelyzet enyhülésére, illetve a korlátozások akár csak részleges feloldására van szükség a Századvég elemzése szerint.  
+  
+A lakossági konjunktúraindexen belül mind a négy alindex, eltérő mértékben, de javult decemberben az előző hónaphoz képest. A háztartások változatlanul az inflációt ítélik meg legnegatívabban, és ezen a téren is volt a legkisebb javulás novemberhez képest. A korábbi hónapokhoz hasonlóan a vizsgált tényezők közül a foglalkoztatás megítélése volt a legkedvezőbb, -6,3 pont, amely 3,9 pontos javulást jelent az előző hónaphoz képest. A munkaerőpiaci helyzet kedvező megítélése azzal magyarázható, hogy a válsághelyzet ellenére nem került sor széleskörű elbocsátásokra, illetve azok egy része, akik a korlátozások nyomán elvesztették állásukat, el tudtak helyezkedni a betöltetlen álláshelyek valamelyikében. Kedvezőbbé vált az anyagi helyzet megítélése is decemberben, az alindex értéke 4,5 ponttal -8,8 pontra emelkedett, míg a legnagyobb javulást a novemberben a korlátozások bevezetése miatt érdemben visszaeső gazdasági környezet alindex mutatta fel: -19,9 pontról -14,7 pontra – közölték.  
+  
+A Századvég kutatása szerint decemberben érdemben javultak a háztartások várakozásai a munkaerőpiaci folyamatokkal kapcsolatban, így ledolgozták a novemberi visszaesésüket és augusztusi szintjükre emelkedtek. Az év utolsó hónapjában a válaszadók 34,2 százaléka számított a következő egy év során a foglalkoztatás kismértékű növekedésére, míg 11,1 százalék volt a jelentős emelkedést várók aránya, szemben a novemberi rendre 26,5, illetve 8,7 százalékkal. Mindeközben a kismértékű csökkenést várók aránya 26,5 százalékról 18,2 százalékra, a jelentős visszaesést váróké pedig 16,0 százalékról 9,3 százalékra mérséklődött.  
+  
+A háztartások kilátásai a saját anyagi helyzetükkel kapcsolatban is javultak a kutatás szerint. Azok aránya, akik anyagi helyzetükben kismértékű javulásra számítanak, 21,9 százalékról 26,2 százalékra, míg azoké, akik jelentős javulásra számítanak, 4,7 százalékról 6,0 százalékra emelkedett egy hónap alatt. Ezzel párhuzamosan a kismértékű romlásra számítók aránya 17,5 százalékról 16,9 százalékra, míg a jelentős romlásra számítóké 10,2 százalékról 7,1 százalékra csökkent.  
+  
+Érdemi javulást mutatott a vállalati konjunktúraindex értéke is decemberben. Mind a négy számított alindex értékében növekedést mértek, a legnagyobb mértékben az iparági környezet megítélése javult, a novemberi -9,2 pontról 4,1 pontra. Vagyis a vállalatok az év utolsó hónapjában sokkal optimistábbá váltak saját iparáguk kilátásait illetően, amely leginkább a vakcina közelségével indokolható. A vállalkozások körében változatlanul a gazdasági környezet megítélése a legnegatívabb, amely alindex esetében történt a legkisebb javulás is az előző hónaphoz viszonyítva: -31,9 pontról -29,3 pontra.  
+  
+A termelési környezet alindex értéke ezzel szemben decemberben -19,7 pontról -14,4 pontra, míg az üzleti környezeté -24,5 pontról -20,4 pontra javult. Előbbi így az augusztusi, míg utóbbi az októberi szintjére emelkedett. Az iparági környezet alindex javulása annak eredményeként következett be, hogy amíg novemberben még a vállalatok 28,0 százaléka számított az iparági kilátások kismértékű romlására a következő 1 év során, addig ez az arány decemberben már csak 21,0 százalék volt. Ezzel egyidejűleg a kismértékű javulásra számítók részaránya 21,4 százalékról 29,4 százalékra emelkedett. Hasonló javulás figyelhető meg a kereslettel kapcsolatos várakozásokban.  
+  
+Azok aránya, akik az iparági termékek, illetve szolgáltatások iránti kereslet kismértékű csökkenésére számítanak, a novemberi 26,0 százalékról 18,7 százalékra mérséklődött, míg a kismértékű növekedést várók aránya 26,4 százalékról 32,5 százalékra emelkedett. Mindkét kérdés vonatkozásában elmozdulás figyelhető meg a pozitív válaszok irányába, amely a kilátások javulását mutatja.  
+  
+(Forrás: MTI)
