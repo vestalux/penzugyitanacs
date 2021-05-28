@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Kapcsolat
-description: 'Foglaljon időpontot személyes tanácsadásra'
+description: Foglaljon időpontot személyes tanácsadásra
 menu: true
 order: "6"
 
@@ -29,5 +29,7 @@ Péntek: 8:00-16:00
 Kérjük, személyes tanácsadásra az ügyfélfogadási időben az alábbi telefonszámon jelentkezzen be:
 
 **+36 82 950 906**
+
+**+36 30 812 4149**
 
 Kérjük, a telefonbeszélgetés során adja meg kollégánknak a témát melyben információt kér, hogy munkatársunk személyre szabott tanácsokkal várhassa a személyes találkozón!
