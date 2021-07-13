@@ -60,9 +60,9 @@ d) azt, hogy az érintettekre nézve milyen esetleges következményekkel járna
 
 e) megfelelő garanciák meglétét, ami jelenthet titkosítást vagy álnevesítést is.
 
-Az adatkezelés célja, az adatkezelés ideje:
+Az adatkezelés jogalapja, célja, az adatkezelés ideje:
 
-Az adatokat TAVOSZ a megbízási szerződésben megfogalmazott elvárások teljesítése érdekében kezeli. Azokhoz a tanácsadók férhetnek hozzá, az adatkezelés során adatfeldolgozót igénybe vesz. Az adatokat az adatkezelő legfeljebb 5 évig kezeli. Az adatkezelés célja továbbá a Pénzügyi Békéltető Testület eljárását kezdeményező kérelem benyújtása és a Testülethez történő beérkezésének ellenőrzése.
+Az adatkezelés jogalapja az érintett hozzájárulása, melynek dokumentálása a hozzájáruló nyilatkozat kitöltésével történik. Az adatokat TAVOSZ a megbízási szerződésben megfogalmazott elvárások teljesítése érdekében kezeli. Azokhoz a tanácsadók férhetnek hozzá, az adatkezelés során adatfeldolgozót igénybe vesz. Az adatokat az adatkezelő legfeljebb 5 évig kezeli. Az adatkezelés célja továbbá a Pénzügyi Békéltető Testület eljárását kezdeményező kérelem benyújtása és a Testülethez történő beérkezésének ellenőrzése.
 
 Adatbiztonsági intézkedések:
 
