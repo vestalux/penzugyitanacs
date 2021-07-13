@@ -62,11 +62,15 @@ e) megfelelő garanciák meglétét, ami jelenthet titkosítást vagy álnevesí
 
 Az adatkezelés célja, az adatkezelés ideje:
 
-Az adatokat TAVOSZ a megbízási szerződésben megfogalmazott elvárások teljesítése érdekében kezeli. Azokhoz a tanácsadók férhetnek hozzá, az adatkezelés során adatfeldolgozót igénybe vesz. Az adatokat az adatkezelő legfeljebb 5 évig kezeli.
+Az adatokat TAVOSZ a megbízási szerződésben megfogalmazott elvárások teljesítése érdekében kezeli. Azokhoz a tanácsadók férhetnek hozzá, az adatkezelés során adatfeldolgozót igénybe vesz. Az adatokat az adatkezelő legfeljebb 5 évig kezeli. Az adatkezelés célja továbbá a Pénzügyi Békéltető Testület eljárását kezdeményező kérelem benyújtása és a Testülethez történő beérkezésének ellenőrzése.
 
 Adatbiztonsági intézkedések:
 
 A TAVOSZ az elektronikus formában nyilvántartott személyes adatokat a saját szerverein tárolja, a tároláshoz igénybe veszi más cég szolgáltatását. TAVOSZ megfelelő intézkedésekkel gondoskodik arról, hogy a személyes adatokat védje - többek között - a jogosulatlan hozzáféréstől vagy megváltoztatástól.
+
+Adattovábbítás:
+
+A Magyar Nemzeti Bank által működtetett Pénzügyi Békéltető Testület eljárását kezdeményező kérelem kormányablakon keresztül történő leadása miatt a kaposvári Kormányablak, illetve a Magyar Nemzeti Bank felé történhet adattovábbítás.
 
 ## Az adatkezeléssel összefüggő jogok:
 
@@ -75,17 +79,11 @@ Tájékoztatáshoz és hozzáféréshez való jog:
 Az érintett az „Adatkezelő” alcím alatt megadott elérhetőségeken keresztül, írásban tájékoztatást kérhet TAVOSZ-tól arról, hogy a TAVOSZ:
 
 * milyen személyes adatait,
-
 * milyen jogalapon,
-
 * milyen célból,
-
 * milyen forrásból,
-
 * mennyi ideig kezeli,
-
 * kezeli-e még a személyes adatait,
-
 * kinek, mikor, milyen okból és mely személyes adataihoz biztosított hozzáférést vagy kinek továbbította a személyes adatait.
 
 Ezen felül kérheti a TAVOSZ által tárolt személyes adatainak másolatát.
@@ -126,9 +124,9 @@ Nemzeti Adatvédelmi és Információszabadság Hatóság elérhetősége:
 
 Nemzeti Adatvédelmi és Információszabadság Hatóság
 
-Székhely: 1125 Budapest, Szilágyi Erzsébet fasor 22/C.
+Cím: 1055 Budapest, Falk Miksa utca 9-11.
 
-Postacím: 1530 Budapest, Pf.: 5.
+Posta cím: 1363 Budapest, Pf.: 9.
 
 Telefon: 06-1-391-1400
 
