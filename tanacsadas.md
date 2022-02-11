@@ -5,7 +5,7 @@ description: 'Somogy megye több településén  is biztosítjuk a pénzügyi fo
   tanácsadást, panaszok megoldását. . Előadásaink  a lakosságot legjobban érintő aktuális
   témákkal kapcsolatosak.
 
-'
+  '
 menu: true
 order: "3"
 
@@ -48,11 +48,13 @@ Felder Frigyes, közgazdász
 
 Dr. Csizmeg László, jogász
 
+Dr. Rákócziné Orosz Gyöngyi, tanácsadó
+
 **Az irodánk elérhetősége:**
 
 Cím: 7400 Kaposvár, Ady Endre u. 3.
 
-Tel.: 82/950-906
+Tel.: 30/812-4149
 
 E-mail: tavoszkozpont@gmail.com
 
