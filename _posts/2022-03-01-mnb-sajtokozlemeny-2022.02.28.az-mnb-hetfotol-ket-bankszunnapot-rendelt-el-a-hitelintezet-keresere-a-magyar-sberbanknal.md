@@ -1,0 +1,16 @@
+---
+title: MNB Sajtóközlemény 2022.02.28. - Az MNB hétfőtől két bankszünnapot rendelt
+  el a hitelintézet kérésére a magyar Sberbanknál.
+date: 2022-03-01 00:03:00
+order: 
+
+---
+![II. kerület | Sberbank - Frankel Leó út (Zárva!)](https://2.kerulet.ittlakunk.hu/files/ittlakunk/upload/company/1256/sberbank_logo.jpg)**_Az MNB hétfőtől két bankszünnapot rendelt el a hitelintézet kérésére a magyar Sberbanknál. Ezen időszakban az ügyfelek bankkártyás tranzakciókat igen, ám számlaműveleteket nem tudnak indítani, számlájukra azonban érkezhet pénz. A jegybank áttekinti a hitelintézet állapotát annak nyomán, hogy az uniós szanálási hatóság bejelentette az európai Sberbank (valószínű) fizetésképtelenségi helyzetét. A helyzet semmilyen hatással sincs a magyarországi pénzügyi intézményrendszer egyéb tagjaira, amelyek stabilan, a megszokott rendben szolgálják ki ügyfeleiket._**
+
+Az Egységes Szanálási Hatóság (SRB), az Európai Unió szanálási szervezete bejelentette, hogy az orosz-ukrán háború hatásaként az ausztriai Sberbank Europe AG.-nál komoly fizetőképességi problémák alakultak ki, a hitelintézet a közeljövőben várhatóan nem tudja teljesíteni tartozásait vagy egyéb kötelezettségeit azok esedékességekor, így (valószínű) fizetésképtelenségi helyzet alakult ki nála. **Az osztrák bank az itthoni Sberbank Magyarország Zrt., illetve több egyéb közép-európai leánybank tulajdonosa**.
+
+A Magyar Nemzeti Bank (MNB) mindezek nyomán **a hazai leánybank kérésére 2022. február 28-tól március 1-ig két bankszünnapot rendelt** el. Ezen időszak alatt a jegybank áttekinti a kialakult helyzetben a magyarországi leánybank működését, állapotát és mihamarabb a pénzügyi piacok stabilitása, illetve az ügyfélérdekek szempontjából leginkább megfelelő döntést hozza meg. A bankszünnapok időszakában az ügyfelek változatlanul tudnak tranzakciókat kezdeményezni bankkártyájukkal, illetve számlájuk is tud beérkező tételeket fogadni. Így a mindennapi élethelyzethez szükséges források rendelkezésükre állnak. Számlaműveleteket azonban nem tudnak kezdeményezni.
+
+A jegybank [honlapján](http://www.mnb.hu) folyamatos tájékoztatást nyújt majd az ügyfeleknek és valamennyi érdekelt félnek a további tudnivalókról. A fogyasztók a témával kapcsolatos megkereséseikre a Sberbank Magyarország Zrt. mellett az MNB budapesti [ügyfélszolgálatán](https://www.mnb.hu/fogyasztovedelem/elerhetosegek/keressen-fel-minket-budapesten), illetve a megyeszékhelyeken elérhető [Pénzügyi Navigátor tanácsadó irodákban](https://www.mnb.hu/fogyasztovedelem/tanacsado-irodak) [írásban](mailto:ugyfelszolgalat@mnb.hu), [telefonon](http://www.mnb.hu/fogyasztovedelem/elerhetosegek/hivjon-minket) vagy [személyesen](http://www.mnb.hu/fogyasztovedelem/elerhetosegek/keressen-fel-minket-budapesten) is kaphatnak választ. Mint ismert, a Sberbank Magyarország Zrt. betéteseinek biztonságát - megbízható működésén túl - a hazai Országos Betétbiztosítási Alap (OBA) is szavatolja.
+
+Az MNB – törvényi kötelezettségének eleget téve – folyamatosan ellátja a hazai pénzügyi rendszer üzleti megbízhatósági (prudenciális), pénzforgalmi és fogyasztóvédelmi felügyeletét. Ez alapján megállapítható, hogy a mostani eseményeknek nincs hatása a hazai pénzügyi rendszer egyéb tagjaira, amelyek biztonságosan, a megszokott rendben szolgálják ki ügyfeleiket.
