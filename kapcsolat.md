@@ -10,7 +10,7 @@ order: "6"
 
 Cím: 7400 Kaposvár, Ady Endre u. 3.
 
-E-mail: tavoszkozpont@gmail.com
+E-mail: pntikaposvar@gmail.com
 
 Ügyfélfogadás:
 
