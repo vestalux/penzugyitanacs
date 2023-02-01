@@ -6,23 +6,18 @@ order:
 ---
 ![](/uploads/zs_ kihelyezett tanácsadás.jpg)
 
-| --- |
-| Kihelyezett tanácsadás helyszíne és időpontja/irodai nap időpontja |
-| Kastélyosdombó Magyar Ökumenikus Segélyszervezet 7977 Kastélyosdombó, Fő u. 1., 2023. február 16. 10-16 óra |
-| Taszár IKSZT épület 7261 Taszár, Lakótelet 8.. 2023. február 17. 10-16 óra |
+**Kastélyosdombó**
 
-**Kastélyosdombó**                                                                 
+Magyar Ökumenikus Segélyszervezet
 
-Magyar Ökumenikus Segélyszervezet                               
-
-7977 Kastélyosdombó, Fő u. 1.,                                        
+7977 Kastélyosdombó, Fő u. 1.,
 
 2023\. február 16. 10-16 óra
 
-**Taszár**                                                                 
+**Taszár**
 
-IKSZT épület                                                            
+IKSZT épület
 
-7261 Taszár, Lakótelet 8..                                       
+7261 Taszár, Lakótelet 8..
 
 2023\. február 17. 10-16 óra
