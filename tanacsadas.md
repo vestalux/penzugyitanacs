@@ -46,7 +46,6 @@ Tanácsadóink rendszeres képzéseken vesznek részt, munkájukat folyamatos sz
 
 Dr. Csizmeg László, jogász
 
-Dr. Rákócziné Orosz Gyöngyi, tanácsadó
 
 **Az irodánk elérhetősége:**
 
