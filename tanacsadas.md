@@ -44,8 +44,6 @@ Tanácsadóink rendszeres képzéseken vesznek részt, munkájukat folyamatos sz
 
 **Tanácsadók:**
 
-Felder Frigyes, közgazdász
-
 Dr. Csizmeg László, jogász
 
 Dr. Rákócziné Orosz Gyöngyi, tanácsadó
