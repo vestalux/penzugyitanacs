@@ -11,4 +11,4 @@ order:
 
 **Kaposfüred**                                                         Napsugár Integrált Szociális Intézmény
 7451 Kaposvár-Kaposfüred, Rezeda u.60.
-2024. március 27. 10-16 óra
+2024. március 29. 10-16 óra
