@@ -14,15 +14,15 @@ E-mail: pntikaposvar@gmail.com
 
 Ügyfélfogadás:
 
-Hétfő: 8:00-16:00
+Hétfő: 10:00-16:00
 
-Kedd: 8:00-16:00
+Kedd: 10:00-16:00
 
-Szerda: 8:00-16:00
+Szerda: 10:00-16:00
 
-Csütörtök: 8:00-16:00
+Csütörtök: 10:00-16:00
 
-Péntek: 8:00-16:00
+Péntek: 10:00-16:00
 
 **Bejelentkezés tanácsadásra**
 
