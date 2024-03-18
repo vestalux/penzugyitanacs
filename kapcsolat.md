@@ -8,7 +8,7 @@ order: "6"
 ---
 **Pénzügyi Navigátor Tanácsadó Iroda**
 
-Cím: 7400 Kaposvár, Ady Endre u. 3.
+Cím: 7400 Kaposvár, Bajcsy-Zsilinszky u. 58. ("Kaposvári Polgárok Háza") I. emelet 118.
 
 E-mail: pntikaposvar@gmail.com
 
