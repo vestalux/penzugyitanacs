@@ -12,11 +12,11 @@ Amennyiben pénzügyi szolgáltatással kapcsolatban panasza van, segítünk a p
 
 Az alábbi ábra szemlélteti a panaszkezelés folyamatát:
 
-![](/uploads/panaszkezelés.jpg)
+![](/uploads/1-pm-infografika-panasz.jpg)
 
 Forrás: Magyar Nemzeti Bank
 
-A panaszkezeléssel kapcsolatban bővebb információ a [Pénzügyi Navigátor Pénzügyi panasz](https://www.mnb.hu/letoltes/mittegyunkpenzugyinc.pdf) című füzetben található.
+A panaszkezeléssel kapcsolatban bővebb információ a [Pénzügyi Navigátor Pénzügyi panasz](https://www.mnb.hu/letoltes/penzugyi-panasz.pdf) című füzetben található.
 
 **Az irodánkhoz beérkezett leggyakoribb pénzügyi témájú panaszok, megkeresések**
 
