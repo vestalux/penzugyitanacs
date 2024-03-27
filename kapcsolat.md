@@ -24,6 +24,8 @@ Csütörtök: 10:00-16:00
 
 Péntek: 10:00-16:00
 
+Az iroda munkaszüneti és ünnepnapokon zárva tart.
+
 **Bejelentkezés tanácsadásra**
 
 Kérjük, személyes tanácsadásra az ügyfélfogadási időben az alábbi telefonszámon jelentkezzen be:
