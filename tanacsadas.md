@@ -45,8 +45,10 @@ Tanácsadóink rendszeres képzéseken vesznek részt, munkájukat folyamatos sz
 **Tanácsadók:**
 
 Dr. Csizmeg László, jogász
-Szalai Róbert
-Felder Frigyes
+
+Szalai Róbert, tanácsadó
+
+Felder Frigyes, tanácsadó
 
 
 **Az irodánk elérhetősége:**
