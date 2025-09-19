@@ -4,6 +4,7 @@ title: Pénzügyi fogyasztóvédelmi tanácsadás már Somogy megyében is!
 description: >
   Az MNB működési engedélyének birtokában megnyitottuk Pénzügyi Tanácsadó
   Irodánkat.
+date: '2025-04-23'
 ---
 2018.04.12-től, az MNB működési engedélyének birtokában megnyitottuk Pénzügyi Tanácsadó Irodánkat. Célunk, hogy segítsük a lakosságot a pénzügyi vállalkozásokkal, szolgáltatókkal szemben felmerülő vitás ügyek megoldásában, tanácsot adjunk pénzügyi döntéseikben, pénzügyi tudatosságuk fejlesztésében.
 
